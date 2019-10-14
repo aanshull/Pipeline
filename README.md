@@ -9,7 +9,7 @@ Activate virtualenv
 
 Install requirements
 
-`pip install -r requirements.txt`
+`pip install pandas`
 
 Run Script
 
